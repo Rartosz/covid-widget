@@ -13,3 +13,4 @@
 
 
 ![alt text](https://github.com/Rartosz/speechRecognition/blob/master/img/google_ss.png "SS from the website")
+![alt text](https://github.com/Rartosz/speechRecognition/blob/master/img/google_ss.png "SS from the website")
