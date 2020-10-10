@@ -12,5 +12,4 @@
 [LIVE DEMO 🔴 *CLICK*](https://lucid-gates-abe9ae.netlify.app/)
 
 
-![alt text](https://github.com/Rartosz/speechRecognition/blob/master/img/google_ss.png "SS from the website")
-![alt text](https://github.com/Rartosz/speechRecognition/blob/master/img/google_ss.png "SS from the website")
+![alt text](https://github.com/Rartosz/speechRecognition/blob/master/img/covidss.png "SS from the website")
